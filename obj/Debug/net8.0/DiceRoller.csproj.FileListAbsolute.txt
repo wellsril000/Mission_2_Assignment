@@ -1,0 +1,14 @@
+/Users/rileywells/RiderProjects/DiceRoller/bin/Debug/net8.0/DiceRoller
+/Users/rileywells/RiderProjects/DiceRoller/bin/Debug/net8.0/DiceRoller.deps.json
+/Users/rileywells/RiderProjects/DiceRoller/bin/Debug/net8.0/DiceRoller.runtimeconfig.json
+/Users/rileywells/RiderProjects/DiceRoller/bin/Debug/net8.0/DiceRoller.dll
+/Users/rileywells/RiderProjects/DiceRoller/bin/Debug/net8.0/DiceRoller.pdb
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.AssemblyInfoInputs.cache
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.AssemblyInfo.cs
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.csproj.CoreCompileInputs.cache
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.dll
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/refint/DiceRoller.dll
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.pdb
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.genruntimeconfig.cache
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/ref/DiceRoller.dll
