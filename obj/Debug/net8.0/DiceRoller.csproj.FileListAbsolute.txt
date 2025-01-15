@@ -12,3 +12,4 @@
 /Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.pdb
 /Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.genruntimeconfig.cache
 /Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/ref/DiceRoller.dll
+/Users/rileywells/RiderProjects/DiceRoller/obj/Debug/net8.0/DiceRoller.sourcelink.json

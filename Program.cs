@@ -4,7 +4,7 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        // create an instance of the RollDiceClass
+        // create an instance of the DiceRoller class
         DiceRoller.DiceRoller diceRoller = new DiceRoller.DiceRoller();
         
         Console.WriteLine("Welcome to the dice throwing simulator!");
@@ -14,17 +14,20 @@ internal class Program
         
         Console.WriteLine("");
         
-       //Pass that number to a second class(DiceRoller) that has a method(RollDiceMethod) that simulates the roll of
+       //Pass user input to a second class(DiceRoller) that has a method(RollDiceMethod) that simulates the roll of
        // the dice for the number of times that the user specified. 
        int[] results = diceRoller.RollDiceMethod(input);
-       
+       // call printhistogram method 
        PrintHistogram(results);
     }
     
+    // pass the array of dice rolls to the method
     public static void PrintHistogram(int[] results)
     {
+        // create an array to count the frequency of each number 2-12
         int[] frequency = new int[13];
 
+        // count the frequency of each number
         foreach (int roll in results)
         {
             frequency[roll]++;
